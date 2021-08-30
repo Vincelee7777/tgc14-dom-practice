@@ -1,4 +1,4 @@
-# Q7 - Selecting many
+ty# Q7 - Selecting many
 
 So far we have been selecting one element at a time. What if we want multiple elements?
 

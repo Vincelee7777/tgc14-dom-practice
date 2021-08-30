@@ -1,3 +1,4 @@
+
 # Q8 - Selecting Many Elements and Manipulation
 
 Examine the HTML file, and perform the following manipulations:
