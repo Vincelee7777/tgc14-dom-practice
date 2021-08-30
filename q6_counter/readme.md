@@ -1,4 +1,4 @@
-# Q6 - Counter
+#inc# Q6 - Counter
 
 Here comes your first challenge at coding an interactive program!
 
